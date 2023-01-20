@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsMod", "TsMod.csproj", "{9B837CD8-3B34-4BEE-8922-3608348C4B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B837CD8-3B34-4BEE-8922-3608348C4B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B837CD8-3B34-4BEE-8922-3608348C4B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B837CD8-3B34-4BEE-8922-3608348C4B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B837CD8-3B34-4BEE-8922-3608348C4B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {415671F5-3E03-4F44-888D-E4F80F210D2D}
+	EndGlobalSection
+EndGlobal
