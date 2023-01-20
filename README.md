@@ -10,6 +10,6 @@ This repository is provided to allow for an easy setup into modding Timespinner 
 
 Happy modding
 
-Example of how to use some of code provided or more advanced usecases can be found in the [Timespinner Randomizer](https://github.com/Jarno458/TsRandomizer)
+Example of how to use some of the code provided or more advanced usecases can be found in the [Timespinner Randomizer](https://github.com/Jarno458/TsRandomizer)
 
 For questions, feel free to ask them inside #general-mod-discussion on the [official Timespinner discord](https://discord.gg/Timespinner)
