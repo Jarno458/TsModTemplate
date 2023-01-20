@@ -22,6 +22,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -31,6 +32,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="FNA">
@@ -47,6 +49,7 @@
     <Compile Include="ExceptionLogger.cs" />
     <Compile Include="Extensions\GameComponentCollectionExtensions.cs" />
     <Compile Include="Extensions\ReflectExtensions.cs" />
+    <Compile Include="HookManager.cs" />
     <Compile Include="LookupDictionary.cs" />
     <Compile Include="Screens\GameplayScreen.cs" />
     <Compile Include="PlatformHelper.cs" />
