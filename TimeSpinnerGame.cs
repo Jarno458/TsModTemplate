@@ -12,7 +12,10 @@ namespace TsMod
 		public TimeSpinnerGame(PlatformHelper platformHelper) : base(platformHelper)
 		{
 			this.platformHelper = platformHelper;
+
 			HookScreenManager();
+
+			DamageHooks.InitializeHooks();
 		}
 
 		void HookScreenManager()

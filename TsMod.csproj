@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Constants.cs" />
+    <Compile Include="DamageHooks.cs" />
     <Compile Include="ExceptionLogger.cs" />
     <Compile Include="Extensions\GameComponentCollectionExtensions.cs" />
     <Compile Include="Extensions\ReflectExtensions.cs" />

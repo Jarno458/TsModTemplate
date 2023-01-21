@@ -39,7 +39,7 @@ namespace TsMod
 					SDL.SDL_ShowSimpleMessageBox(
 						SDL.SDL_MessageBoxFlags.SDL_MESSAGEBOX_ERROR,
 						"VersionMismatch",
-						"TsRandomizer version missmatch!, pleaze update TsRandomizer\r\nThe installed version of TsRanodmizer is not made to work with the installed version of TimeSpinner",
+						"TsMod version missmatch!, pleaze update your mod\r\nThe installed version of your mod is not made to work with the installed version of Timespinner",
 						IntPtr.Zero
 					);
 					return -1;
